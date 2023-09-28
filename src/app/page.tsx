@@ -17,7 +17,7 @@ export default function Home() {
       <TypographyH3 className="text-center">
         دانشجو کارشناسی رشته برق قدرت
       </TypographyH3>
-      <a href="instagram://saman__8__">
+      <a href="instagram://user?username=saman__8__">
         <InstagramIcon className="w-10" />
       </a>
     </main>
