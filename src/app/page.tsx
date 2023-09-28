@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="flex flex-col justify-center items-center gap-6 p-4">
       <Image
-        src="/img/photo1.jpg"
+        src="/img/photo2.jpg"
         alt="Image 1"
         width={70}
         height={70}
@@ -17,7 +17,9 @@ export default function Home() {
       <TypographyH3 className="text-center">
         دانشجو کارشناسی رشته برق قدرت
       </TypographyH3>
-      <InstagramIcon className="w-8" />
+      <a href="https://www.instagram.com/saman__8__/">
+        <InstagramIcon className="w-8" />
+      </a>
     </main>
   );
 }
