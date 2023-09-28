@@ -1,3 +1,3 @@
 export function Header() {
-  return <header className="">header</header>;
+  return <header className="">⚡️</header>;
 }
